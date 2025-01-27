@@ -1,0 +1,23 @@
+.animation-div {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    animation: colorRainbow 3s infinite;
+}
+@keyframes colorRainbow {
+    0% {
+        height: 100px;
+        width: 100px;
+        background-color: green;
+    }
+    50% {
+        background-color: yellow;
+        height: 150px;
+        width: 150px;
+    }
+    100% {
+        background-color: red;
+        height: 200px;
+        width: 200px;
+    }
+}

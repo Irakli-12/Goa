@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Lexend+Deca:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playwrite+HR+Lijeva:wght@100..400&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Lexend+Deca:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playwrite+HR+Lijeva:wght@100..400&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.div-1 {
+    border-top-left-radius: 2%;
+    border-bottom-left-radius: 2%;
+    background-color: hsl(31, 77%, 52%);
+    height: 550px;
+    width: 350px;
+}
+.div-2 {
+    background-color: hsl(184, 100%, 22%);
+    height: 550px;
+    width: 350px;
+}
+.div-3 {
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+    background-color: hsl(179, 100%, 13%);
+    height: 550px;
+    width: 350px;
+}
+.img-sedans {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.h1-sedans {
+    font-family: "Big Shoulders Display";
+    margin-left: 50px;
+    font-size: 40px;
+    color: white;
+}
+.p-sedans {
+    font-family: "Lexend Deca";
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 80px;
+    color: white;
+
+}
+.button-sedans {
+    border-radius: 35px;
+    height: 50px;
+    width: 150px;
+    border: transparent;
+    color: hsl(31, 77%, 52%);
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.img-suvs {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.h1-suvs {
+    font-family: "Big Shoulders Display";
+    margin-left: 50px;
+    font-size: 40px;
+    color: white;
+}
+.p-suvs {
+    font-family: "Lexend Deca";
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 80px;
+    color: white;
+}
+.button-suvs {
+    border-radius: 35px;
+    height: 50px;
+    width: 150px;
+    border: transparent;
+    color: hsl(184, 100%, 22%);
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.img-lexury {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.h1-luxury {
+    font-family: "Big Shoulders Display";
+    margin-left: 50px;
+    font-size: 40px;
+    color: white;
+}
+.p-luxury {
+    font-family: "Lexend Deca";
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 80px;
+    color: white;
+}
+.button-luxury {
+    border-radius: 35px;
+    height: 50px;
+    width: 150px;
+    border: transparent;
+    color: hsl(179, 100%, 13%);
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 70px;
+}

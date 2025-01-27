@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(19, 18, 18);
+}
+.div-logo {
+    border: 5px solid black;
+    border-top: 5px solid white;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: Spinner 2s linear infinite;
+}
+
+@keyframes Spinner {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+.container {
+    display: flex;
+}
+.h1-1 {
+    margin-top: 40px;
+    margin-left: 30px;
+    color: white;
+}

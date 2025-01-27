@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Lexend+Deca:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playwrite+HR+Lijeva:wght@100..400&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Figtree";
+    background-color: hsl(47, 88%, 63%);
+}
+.div-1 {
+
+    border-radius: 3%;
+    width: 450px;
+    height: 570px;
+    background-color: white;
+    border: black solid 1px;
+    box-shadow: 10px 10px 0px black;
+}
+.img-1 {
+    margin-top: 30px;
+    width: 450px;
+    height: 200px;
+}
+.div-2 {
+    border-radius: 5px;
+    margin-left: 55px;
+    margin-top: 20px;
+    width: 70px;
+    height: 20px;
+    background-color: hsl(47, 88%, 63%);
+}
+.p-1 {
+    margin-left: 55px;
+}
+.h1-1 {
+    margin-left: 55px;
+}
+.p-2 {
+    margin-left: 55px;
+    color: hsl(0, 0%, 42%);
+    margin-right: 40px;
+}
+.img-2 {
+    margin-left: 55px;
+}

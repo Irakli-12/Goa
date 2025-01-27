@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Figtree:ital,wght@0,300..900;1,300..900&family=Fondamento:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Lexend+Deca:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Permanent+Marker&family=Playwrite+FR+Moderne+Guides&family=Playwrite+HR+Lijeva:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Spicy+Rice&display=swap');
+body {
+    background-color: hsl(0, 0%, 98%);
+    font-family: "Poppins";
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.h1-1 {
+    font-weight: 100;
+    color: hsl(229, 6%, 66%);
+    text-align: center;
+}
+.h1-2 {
+    text-align: center;
+}
+.p-1 {
+    text-align: center;
+}
+.teambuilder-div {
+    margin-top: 50px;
+    height: 320px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: hsl(0, 78%, 62%);
+}
+.in-div1 {
+    margin-top: 10px;
+    height: 310px;
+    width: 400px;
+    background-color: white;
+}
+.h1-tb {
+    padding-top: 20px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.p-tb {
+    margin-left: 30px;
+    font-size: 15px;
+    font-weight: 20;
+}
+.img-tb {
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.karma-div {
+    height: 100px;
+    width: 100px;
+    background-color: hsl(34, 97%, 64%);
+    margin-top: 50px;
+    height: 320px;
+    width: 400px;
+}
+.in-div2 {
+    margin-top: 10px;
+    height: 310px;
+    width: 400px;
+    background-color: white;
+}
+.h1-kr {
+    padding-top: 20px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.p-kr {
+    margin-left: 30px;
+    margin-right: 50px;
+    font-size: 15px;
+    font-weight: 20;
+}
+.img-kr {
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.supervisor-div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin-right: 600px;
+    margin-bottom: 600px;
+}

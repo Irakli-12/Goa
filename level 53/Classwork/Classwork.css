@@ -1,0 +1,57 @@
+.div-1 {
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    transition: 2.0s;
+}
+.div-1:hover {
+    transform: translate(50px);
+}
+.div-2 {
+    margin-left: 100px;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    transition: 1.5s;
+}
+.div-2:hover {
+    transform: scale(2.0);
+}
+.container {
+    display: flex;
+}
+.div-3 {
+    margin-left: 100px;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    transition: 1.0s;
+} 
+.div-3:hover {
+    transform: scale(1.5);
+}
+.div-3:active {
+    transform: scale(1.0);
+}
+.div-4 {
+    margin-left: 100px;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    transition: 1.0s;
+}
+.div-4:hover {
+    transform: rotate(180deg);
+}
+.div-5 {
+    margin-left: 100px;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    transition: 2.0s;
+}
+.div-5:hover {
+    transition-delay: 2.0s;
+    transform: rotate(180deg);
+    background-color: red;
+}

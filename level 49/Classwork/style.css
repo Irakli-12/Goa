@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Figtree:ital,wght@0,300..900;1,300..900&family=Fondamento:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=League+Spartan:wght@100..900&family=Lexend+Deca:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Permanent+Marker&family=Playwrite+AU+SA:wght@100..400&family=Playwrite+FR+Moderne+Guides&family=Playwrite+HR+Lijeva:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Spicy+Rice&family=Young+Serif&display=swap');
+body {
+    background-color: rgb(216, 216, 216);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.div-1 {
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    height: 300px;
+    display: flex;
+}
+.amir {
+    height: 300px;
+    width: 250px;
+}
+.h1-1 {
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.div-2 {
+    flex-direction: column;
+    display: flex;
+}
+.p-2 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.img1 {
+    width: 40px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div-3 {
+    display: flex;
+}
+.h1-2 {
+    margin-top: 35px;
+    margin-left: 10px;
+}

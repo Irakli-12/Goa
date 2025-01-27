@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Figtree:ital,wght@0,300..900;1,300..900&family=Fondamento:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=League+Spartan:wght@100..900&family=Lexend+Deca:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Permanent+Marker&family=Playwrite+FR+Moderne+Guides&family=Playwrite+HR+Lijeva:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Spicy+Rice&family=Young+Serif&display=swap');
+
+body {
+    background-image: url(/social-proof-section-master/images/bg-pattern-bottom-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "League Spartan";
+    height: 200vh;
+}
+
+.div-1 {
+    height: 300px;
+    width: 580px;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+.h1-1 {
+    margin-right: 200px;
+    font-size: 55px;
+    color: hsl(300, 43%, 22%);
+}
+
+.p-1 {
+    margin-right: 100px;
+    color: hsl(303, 10%, 53%);
+    font-size: 20px;
+}
+
+.div-upper-container {
+    display: flex;
+}
+
+.star-1 {
+    display: flex;
+    margin-top: 140px;
+    border-radius: 7px;
+    width: 400px;
+    height: 60px;
+    background-color: hsl(300, 24%, 96%);
+}
+
+.star-2 {
+    margin-left: 50px;
+    display: flex;
+    margin-top: 20px;
+    border-radius: 7px;
+    width: 400px;
+    height: 60px;
+    background-color: hsl(300, 24%, 96%);
+}
+
+.star-3 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 7px;
+    width: 400px;
+    height: 60px;
+    background-color: hsl(300, 24%, 96%);
+}
+
+.stars-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.star1 {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.star6 {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.star11 {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.div-star-1 {
+    display: flex;
+}
+
+.div-star-2 {
+    display: flex;
+}
+
+.div-star-3 {
+    display: flex;
+}
+
+.p-2 {
+    margin-top: 25px;
+    margin-left: 20px;
+    color: hsl(300, 43%, 22%);
+}
+
+.p-3 {
+    margin-top: 25px;
+    margin-left: 20px;
+    color: hsl(300, 43%, 22%);
+}
+
+.p-4 {
+    margin-top: 25px;
+    margin-left: 20px;
+    color: hsl(300, 43%, 22%);
+}
+
+.div-4 {
+    flex-direction: column;
+    background-color: hsl(300, 43%, 22%);
+    width: 350px;
+    height: 220px;
+    display: flex;
+    border-radius: 7px;
+    margin-left: 300px;
+    margin-top: 60px;
+}
+
+.img-1 {
+    margin-top: 10px;
+    width: 45px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+}
+
+.p-5 {
+    color: hsl(300, 24%, 96%);
+}
+
+.p-6 {
+    color: hsl(333, 80%, 67%);
+}
+
+.div-5 {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.p-7 {
+    margin-left: 20px;
+    margin-right: 30px;
+    color: hsl(300, 24%, 96%);
+}
+
+.div-6 {
+    margin-left: 20px;
+}
+
+.div-8 {
+    flex-direction: column;
+    background-color: hsl(300, 43%, 22%);
+    width: 350px;
+    height: 220px;
+    display: flex;
+    border-radius: 7px;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+
+.div-9 {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.img-2 {
+    margin-top: 10px;
+    width: 45px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+}
+
+.div-10 {
+    margin-left: 20px;
+}
+
+.p-8 {
+    color: hsl(300, 24%, 96%);
+}
+
+.p-9 {
+    color: hsl(333, 80%, 67%);
+}
+
+.p-10 {
+    margin-left: 20px;
+    margin-right: 30px;
+    color: hsl(300, 24%, 96%);
+}
+.div-11 {
+    display: flex;
+}
+.div-12 {
+    flex-direction: column;
+    background-color: hsl(300, 43%, 22%);
+    width: 350px;
+    height: 220px;
+    display: flex;
+    border-radius: 7px;
+    margin-left: 30px;
+    margin-top: 100px;
+}
+.div-13 {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.img-3 {
+    margin-top: 10px;
+    width: 45px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+}
+.div-14 {
+    margin-left: 20px;
+}
+.p-11 {
+    color: hsl(300, 24%, 96%);
+}
+.p-12 {
+    color: hsl(333, 80%, 67%);
+}
+.p-13 {
+    margin-left: 20px;
+    margin-right: 30px;
+    color: hsl(300, 24%, 96%);
+}
