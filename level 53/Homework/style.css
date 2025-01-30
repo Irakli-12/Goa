@@ -1,0 +1,30 @@
+.div-1 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    transition: 2s;
+}
+.div-2 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin-top: 200px;
+    transition: 3s;
+}
+.div-3 {
+    margin-top: 200px;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    transition: 1s;
+}
+.div-1:hover{
+    background-color: green;
+}
+.div-2:hover {
+    height: 150px;
+    width: 150px;
+}
+.div-3:hover {
+    transform: rotate(180deg);
+}

@@ -1,0 +1,19 @@
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background-color: black;
+}
+.parent-div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+}
+.d1 {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 30px;
+}
