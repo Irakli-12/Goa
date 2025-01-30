@@ -1,0 +1,41 @@
+.d1 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    animation: 3s colorchange1 infinite;
+}
+@keyframes colorchange1{
+    from {background-color: red;}
+    to {background-color: green;}
+}
+.move-right {
+    position: relative;
+    animation: moveRight 2s forwards;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+@keyframes moveRight {
+    to {
+        transform: translateX(200px);
+    }
+}
+.round {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+.rotate-scale {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    animation: rotateScale 4s forwards;
+}
+
+@keyframes rotateScale {
+    to {
+        transform: rotate(360deg) scale(1.5);
+    }
+}
